@@ -2,8 +2,8 @@ import { useState, useEffect, useRef, useCallback } from "react";
 import { io } from "socket.io-client";
 import "./App.css";
 
-const socket = io("http://localhost:3001", {
-  autoConnect: false, 
+const socket = io("https://week-12-mission12-2.onrender.com", {
+  autoConnect: false,
 });
 
 function formatTime(ts) {
