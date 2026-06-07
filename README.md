@@ -6,11 +6,11 @@ The project demonstrates WebSocket-based bidirectional communication, session id
 
 ---
 ---
-📸 Screenshot- ![img alt]()
+📸 Screenshot- ![img alt](https://github.com/Harshit-700/Week-12-mission12/blob/1bccb179eb147d79395afb3f1a5316cd2b8318a5/Screenshot%20(443).png)
 
 
-🔗 Live Demo frontend url:
-🔗 Live Demo backend url:
+🔗 Live Demo frontend url: https://week-12-mission12.vercel.app/
+🔗 Live Demo backend url: https://week-12-mission12-2.onrender.com/
 
 ## 📁 Project Structure
 
